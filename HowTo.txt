@@ -1,0 +1,34 @@
+howto for opensploit ver. 0.1
+
+what is OpenSploit?
+This is opensource version of metasploit framework
+
+Howto install
+edit install.py for yourself
+chmod +x install.py
+chmod +x opensploit.py
+./install.py
+
+What is libpentest.py?
+This is pack of functions for making soft for opensploit easily
+
+How i can add my own exploit for OpenSploit?
+Just copy that one to "exploits" dir
+
+Can i add my own banner to OpenSploit?
+Just copy that one to "banners" directory
+
+What i need to work with OpenSploit
+Python3.6
+
+What the difference between libpentest and advancedlibpentest?
+libpentest uses only standart python library and advlibpentest not
+
+What i can do with advlibpentest?
+You can play with bluetooth, credit cards, wifi etc
+
+Howto install libpentest?
+cp libpentest.py /usr/lib/python3.6/
+
+Can i use soft from opensploit without is?
+sure. Just run application
